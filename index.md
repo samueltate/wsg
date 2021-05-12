@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2021/05/12/wsg-owl.png"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: About
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
